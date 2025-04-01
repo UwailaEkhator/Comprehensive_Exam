@@ -1,4 +1,4 @@
-# Comprehensive_Exam: Climate Change Opinion Dynamics and Stance Detection
+# Climate Change Opinion Dynamics and Stance Detection
 
 
 ## Overview
@@ -8,4 +8,4 @@
 
 ## Datasets:
 
-## Description of each Notebook:
+## Description of each file:
