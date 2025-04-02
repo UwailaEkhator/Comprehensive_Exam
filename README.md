@@ -13,7 +13,7 @@ This repository contains the computing artifact for my PhD Comprehensive Exam. T
 
 #### 2. Downlaod Anaconda using this [link](https://www.anaconda.com/download).
 
-#### 3. Download Ollama using this [link]([https://www.anaconda.com/download](https://github.com/ollama/ollama)).
+#### 3. Download Ollama using this [link](https://github.com/ollama/ollama).
 
 #### 4. Launch Anaconda and open a Jupyter Notebook or JupyterLab.
 
