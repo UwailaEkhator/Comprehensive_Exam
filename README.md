@@ -21,7 +21,7 @@ This repository contains the computing artifact for my PhD Comprehensive Exam. T
    ```
    pip install transformers datasets evaluate accelerate torch tf-keras
    ```
-#### 6. Download the SemEval-2016 stance detection dataset usin this [link](https://www.saifmohammad.com/WebPages/StanceDataset.htm).
+#### 6. Download the SemEval-2016 stance detection dataset using this [link](https://www.saifmohammad.com/WebPages/StanceDataset.htm).
 
 #### 7. Prepare the data, using the code in Computing_Artifact/Data_Preparation.ipynb.
 
