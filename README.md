@@ -6,30 +6,30 @@ This repository contains the computing artifact for my PhD Comprehensive Exam. T
 
 
 ## How to setup and run this project
-### 1. Clone the repository:
+#### 1. Clone the repository:
    ```
     git clone https://github.com/UwailaEkhator/Comprehensive_Exam.git
    ```
 
-### 2. Downlaod Anaconda using this [link](https://www.anaconda.com/download).
+#### 2. Downlaod Anaconda using this [link](https://www.anaconda.com/download).
 
-### 3. Download Ollama using this [link]([https://www.anaconda.com/download](https://github.com/ollama/ollama)).
+#### 3. Download Ollama using this [link]([https://www.anaconda.com/download](https://github.com/ollama/ollama)).
 
-### 4. Launch Anaconda and open a Jupyter Notebook or JupyterLab.
+#### 4. Launch Anaconda and open a Jupyter Notebook or JupyterLab.
 
-### 5. Install required packages
+#### 5. Install required packages
    ```
    pip install transformers datasets evaluate accelerate torch tf-keras
    ```
-### 6. Download the SemEval-2016 stance detection dataset usin this [link](https://www.saifmohammad.com/WebPages/StanceDataset.htm).
+#### 6. Download the SemEval-2016 stance detection dataset usin this [link](https://www.saifmohammad.com/WebPages/StanceDataset.htm).
 
-### 7. Prepare the data, using the code in Computing_Artifact/Data_Preparation.ipynb.
+#### 7. Prepare the data, using the code in Computing_Artifact/Data_Preparation.ipynb.
 
-### 8. Finetune the BERTweet model using the code in Computing_Artifact/Finetuning_BERTweet_model.ipynb.
+#### 8. Finetune the BERTweet model using the code in Computing_Artifact/Finetuning_BERTweet_model.ipynb.
 
-### 9. Run the In-context learning model using the code in Computing_Artifact/Applying_ICL.ipynb.
+#### 9. Run the In-context learning model using the code in Computing_Artifact/Applying_ICL.ipynb.
 
-### 10. Compare the results from both models using the code in Computing_Artifact/Comparing_ICL_and_Finetuning.ipynb.
+#### 10. Compare the results from both models using the code in Computing_Artifact/Comparing_ICL_and_Finetuning.ipynb.
 
 
 
