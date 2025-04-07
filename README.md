@@ -1,4 +1,4 @@
-# Climate Change Opinion Dynamics and Stance Detection
+# Climate Change Stance Detection
 
 
 ## Overview
